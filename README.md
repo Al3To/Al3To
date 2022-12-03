@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al3to&label=Profile%20views&color=0e75b6&style=flat" alt="al3to" /> </p>
 
-- 🔭 I’m currently working on [TLC](https://github.com/Al3To/TLC)
+- 🔭 I’m currently working on [THC](https://github.com/Al3To/THC)
 
-- 🌱 I’m currently learning **client/server systems**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **aletommy238@gmail.com**
 
